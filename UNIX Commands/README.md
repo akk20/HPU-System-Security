@@ -58,7 +58,7 @@
 
 ## Commands
 
-### bash
+### `bash`
 
 ### `cat`
 Print contents of file in the command window
